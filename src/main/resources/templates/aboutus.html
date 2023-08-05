@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard</title>
+  <link rel="stylesheet" type="text/css" th:href="@{/css/header.css}">
+  <link rel="stylesheet" type="text/css" th:href="@{/css/footer.css}">
+  <link rel="stylesheet" type="text/css" th:href="@{/css/aboutus.css}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body >
+
+<header th:replace="~{/fragments/header.html}"></header>
+<main style="background-color: #65CAD1">
+  <div class="main-div" >
+    <h2 class="h2-title">About us</h2>
+    <p class="paragraph"> Welcome to Matshya Gallery, your ultimate destination for all things aquatic! With a passion for the mesmerizing world beneath the waves, we have curated an exquisite collection of vibrant and diverse fish species that are sure to captivate both seasoned enthusiasts and newcomers alike. Our journey began with a deep-rooted love for marine life, and we take pride in sharing our expertise to provide you with top-quality fish, aquatic supplies, and expert guidance. Whether you're setting up a stunning underwater ecosystem or seeking a new finned friend to add to your aquatic family, [Your Fish Shop Name] is committed to delivering exceptional products and personalized service. Join us in exploring the wonders of the aquatic realm, and let us be your trusted partner in making your underwater dreams a reality.</p>
+  </div>
+</main>
+
+<footer th:replace="~{/fragments/footer.html}"></footer>
+</body>
+</html>

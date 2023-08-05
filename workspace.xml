@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87ff7875-27f1-4c5b-b830-c9280315c3f1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SfNfBNNtRuIVrWfpKkHoiINj7Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/krishal/OneDrive/Desktop/KrishalEcommerce",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
+    "spring.configuration.checksum": "16046f61680725b7d5045973f7367ec6",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\final project\Individual_web_final\ShreejanEcommerce\src\main\resources\static\images" />
+      <recent name="E:\final project\Individual_web_final\ShreejanEcommerce\src\main\resources\templates" />
+      <recent name="E:\final project\Individual_web_final\ShreejanEcommerce\EazyMart" />
+      <recent name="E:\final project\ShreejanEcommerce\src\main\resources\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\final project\Individual_web_final\ShreejanEcommerce\src\main\resources\static\images" />
+      <recent name="E:\final project\Individual_web_final\ShreejanEcommerce\src\main\resources\templates" />
+      <recent name="E:\final project\Individual_web_final\ShreejanEcommerce\src\main\resources\static\css" />
+      <recent name="E:\final project\TinTin-master\src\main\resources\static\js" />
+      <recent name="E:\final project\TinTin-master\src\main\resources\static\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TinTin-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="TinTin-master" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShreejanEcommerceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ShreejanEcommerce" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.system.KrishalEcommerce.ShreejanEcommerceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87ff7875-27f1-4c5b-b830-c9280315c3f1" name="Changes" comment="" />
+      <created>1689533779748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689533779748</updated>
+      <workItem from="1689533780725" duration="2523000" />
+      <workItem from="1689548244095" duration="605000" />
+      <workItem from="1689747847896" duration="5673000" />
+      <workItem from="1689753629235" duration="2382000" />
+      <workItem from="1689840873977" duration="2397000" />
+      <workItem from="1690140747828" duration="1505000" />
+      <workItem from="1690188350016" duration="13222000" />
+      <workItem from="1690207321908" duration="1659000" />
+      <workItem from="1690280783154" duration="5081000" />
+      <workItem from="1690350296493" duration="12560000" />
+      <workItem from="1690779172358" duration="232000" />
+      <workItem from="1690779582876" duration="791000" />
+      <workItem from="1690883022786" duration="2709000" />
+      <workItem from="1690886486396" duration="261000" />
+      <workItem from="1690906288855" duration="10000" />
+      <workItem from="1690906354814" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
