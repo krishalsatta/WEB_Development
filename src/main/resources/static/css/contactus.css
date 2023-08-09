@@ -54,13 +54,14 @@ main {
 
 .contact-in:nth-child(1) {
     flex: 30%;
-    background: rgb(95 99 104);
+    background-color: #b0c4de;
+
 }
 
 .contact-in:nth-child(2) {
     /*flex: 15%;*/
     /* background: url(../images/1.jpg); */
-    background-color: #292D33;
+    background-color: #f4a460;
     color: white;
     font-weight: bold;
 }
