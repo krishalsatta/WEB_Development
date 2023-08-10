@@ -33,7 +33,6 @@ public class CartController {
         model.addAttribute("cartItems", list);
         return "cart";
     }
-
     @PostMapping("/updateQuantity/{id}")
     public String updateQuantity(@Valid ProductCartPojo productCartPojo){
         ProductCart productCart = productCartService.fetchOne(productCartPojo.getId());

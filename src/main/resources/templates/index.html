@@ -93,7 +93,6 @@
     <div class="pro" th:each="products:${product}">
       <img class="item-pic" th:src="'data:image/png;base64,'+${products.imageBase64}"/>
       <div class="description">
-        <span th:text="Apparel"></span>
         <h5 th:text="'Name:'+${products.name}"></h5>
         <h5 th:text="'Qty:'+${products.quantity}"></h5>
         <h4 th:text="'Rs '+${products.price}"></h4>
